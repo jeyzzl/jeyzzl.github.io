@@ -1,0 +1,15 @@
+#main-h{
+  background: url(/img/EP-cover-alt.JPG) no-repeat right;
+}
+
+.bg-footer{
+  background-color: rgb(27, 38, 56);
+}
+
+.footer-link{
+  color: black;
+}
+
+.foot-copyright{
+  background-color: rgb(16, 23, 34);
+}
